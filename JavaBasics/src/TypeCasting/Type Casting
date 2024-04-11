@@ -1,0 +1,28 @@
+Type Casting :-
+---------------- 
+converting one type into another type it is called as type casting.
+
+type casting are two types:
+------------------------------- 
+1. Primitive Type Casting :- Primitive Type Casting means converting one data type into another data type.
+
+Primitive Type Casting has Two Type :
+1. Narrowing :- converting bigger data type into smaller data type is called as narrowing. [only Explicitly]
+2. Widening :- converting smaller data type into bigger data type is called as widening. [Implicitly or Explicitly]
+
+
+2. Class Type Casting :- Class Type Casting means converting one class into another class.
+
+Class Type Casting has Two Type :
+1. Upcasting :- upcasting is converting child class object into super class type. 
+2. Downcasting :- downcasting is converting super class object into sub-class type.
+
+
+
+Q. lets convert your weight which is 83 in double data type.
+
+Q. create a class as student and upcast that a object class.
+
+
+
+

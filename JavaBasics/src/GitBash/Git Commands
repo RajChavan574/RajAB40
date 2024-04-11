@@ -1,0 +1,12 @@
+Github - 
+
+Commands
+
+1.git -- version
+2.git init
+3.git clone - clone the remote with your local repository
+4.ls
+5.git status
+6.git add
+7.git commit -m
+8.git push --all https://github.com/RajChavan574/RajAB40.git

@@ -1,0 +1,11 @@
+Encapsulation :- 
+Encapsulation is one of the java concept that make any sensitive information private so that it should 
+not be accessible to everyone. or 
+making sensitive info of the class as private to restrict its direct access. but giving the indirect access.
+but giving the direct access by using getter and setter method is called as Encapsulation.
+
+
+1.making sensitive info of the class as private
+2.getter & setter method should be public.
+3.private string password;
+4.setter method is use to set the value and getter method is use to fetch the value.

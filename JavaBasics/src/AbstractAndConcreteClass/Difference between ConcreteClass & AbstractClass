@@ -1,0 +1,18 @@
+Difference between ConcreteClass & AbstractClass
+
+ConcreteClass
+1.concrete class will have just concrete methods.
+2.for Concrete class we need a keyword called as "No".
+3.concrete class can be any class e.g. child,parent,grandparent..etc
+4.concrete classes methods not mandatory for its methods to be overridden.
+5.concrete class can have both static as well as non-static methods.
+6.unimplemented methods we can added in concrete class of abstract classes.
+
+
+AbsractClass
+1.abstract class with have both concrete & abstract methods.
+2.for abstract class we need a keyword called as "Abstract".
+3.abstract can not be child class, it can only be parent class or grand parent class.
+4.abstract classes methods like abstract methods needs to be overridden.
+5.abstract class should only be non-static methods.
+6.its not required to add the unimplemented methods of concrete class inside abstract class. 

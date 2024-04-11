@@ -1,0 +1,5 @@
+Facts of Final Keyword :-
+
+i) variable --> it will not change its value.
+ii) method --> any method which is final can never be overridden.
+iii) class --> any class which is final can never be inherited.

@@ -1,0 +1,4 @@
+Abstraction :
+i)hiding the implementation and show casing or exposing only what is required is called as abstraction in java.
+ii) with the help of interface you can achieve 100% abstraction.
+iii) with the help of abstract class we can achieve 0-100% abstraction.

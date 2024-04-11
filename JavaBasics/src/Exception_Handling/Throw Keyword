@@ -1,0 +1,19 @@
+Throw Keyword :- 1.Throw keyword in java is used to Throw an exception. 
+2.one throw keyword can throw only one exception.
+3.Throw keyword should always be written within the method
+
+
+
+throw new ExceptionName();
+
+or
+
+throw new ExceptionName("Your Massage");
+
+
+
+Throws Keyword :- 1.Throws keyword in java used to declare an exception.
+2.one throws keyword can be declare many exception.
+3.Throws keyword should be written within together with the method name.
+
+

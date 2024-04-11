@@ -1,0 +1,21 @@
+String :- 
+
+String a= "India";
+size/length = 5
+index = start from 0 
+
+String a= "Raj";
+Size/length =  3
+index = start from 0
+
+a.length();
+a.charAt(index);
+a.charAt(4);
+a.touppercase();
+a.tolowercase();
+
+a.Index(a); = 1
+
+
+system.out.print(); //it will print horizontally
+system.out.println();  //it will print vertically

@@ -1,0 +1,29 @@
+Abstract Class :- Abstract Classes are those classes which will have abstract method in it.
+
+Q. What is Abstract Method ?
+--> Abstract methods are those methods in java which will have no implementation.
+abstract void add();
+
+i) abstract method will always be non-static.
+ii) abstract method will always have to be overridden. 
+iii) a abstract Class can have abstract methods as well as concrete methods.
+
+
+Concrete class :- Concrete classes are those classes which will have concrete method in it.
+
+Q. What is Concrete Class ?
+--> Concrete classes are those classes which can have concrete methods in it.
+
+Q. What is Concrete method ?
+--> Concrete method are those method which will have the implementation.
+
+i) Concrete method will always be static and non-static.
+
+
+Assignment:-
+
+Create Multi level Inheritance using 2 Abstract classes and 1 concrete class by creating 2 AbsMethods in Absclass1,
+creating 2 AbsMethods, 1 ConcreteMethod in Abssclass2, and 2 Concrete methods in Child class(Concrete class)
+
+
+

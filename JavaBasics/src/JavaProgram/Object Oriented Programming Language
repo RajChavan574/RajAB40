@@ -1,0 +1,23 @@
+Object Oriented Programming Language*
+--------------------------------------
+C - class
+O - object
+A - Abstraction [Interface & Abstract class]
+P - Polymorphism
+I - Inheritance
+E - Encapsulation
+
+Defination :-
+----------------
+Any Programming language that shows the behaviour of class, object, abstraction, polymorphism, inheritance, encapsulation 
+is called as Object Oriented Programming Language.
+
+Class :- class in java create the template to write the program. 
+Object Class :- Object class is the root(parent) class of all the classes in the java. which is present implicitly  but can we mentioned explicit too.
+
+
+Q. Can you name same languages which are object oriented programming languages ?
+--> java, python, java script, c#, ROR, php, etc.
+
+Q. Can you name same languages which are not object oriented programming languages ?
+--> C, C++, Cobal, Pascal, Basic, Ada,.. etc.

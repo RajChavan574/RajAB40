@@ -1,0 +1,29 @@
+Access specifier :
+
+Access specifier for methods
+
+*What happens within class ?
+1.private - yes ,
+2.protected - yes ,
+3.public - yes,
+4.package/default - yes
+
+*what happens within package ?
+1.private - no ,
+2.protected - yes ,
+3.public - yes,
+4.package/default - yes
+
+*what happens out side the package by becoming subclass ?
+1. private - no,
+2.protected - yes,
+3.public - yes,
+4.default - no
+
+*what happens out side the package without becoming subclass ?
+1.private - NO,
+2.protected - NO,
+3.public - YES,
+4.default - NO
+
+

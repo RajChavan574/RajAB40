@@ -1,0 +1,10 @@
+Polymorphism -> Polymorphism means same action (methods) in many ways.
+defination -> an object showing different behaviour at the different stages of its life cycle is called as polymorphism.
+polymorphism has 2 types - compile time polymorphism & run time polymorphism
+
+i) compile time polymorphism - an object showing different behaviour at the different stages of its life cycle during 
+the compile time.beased on the argument passed is called as comiple time polymorphism.
+compile time polymorphism can achive from the method of overloading
+
+ii) run time polymorphism - an object showing different behaviour at the different stages of its life cycle at the run time
+based on the object that we create is called as run time polymorphism.

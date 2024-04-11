@@ -1,0 +1,5 @@
+Super Keyword
+-------------------- 
+i) super keyword in java can only be use in the case of method overriding to call the parent class method together with the child class method.
+ii) super keyword should be the first line or any line in side the method.
+iii) super keyword is only be used in the context of non-static.

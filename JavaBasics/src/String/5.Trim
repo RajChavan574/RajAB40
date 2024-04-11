@@ -1,0 +1,4 @@
+Trim :- trim is going to removed the extra spaces that is present in the front of the string and end of the string. not a middle of the string.
+
+"I am Student";
+" I am Student "; 

@@ -1,0 +1,12 @@
+distinguish between collection & collections
+
+1.Collection is a interface
+2.collection have many abstract method in it.
+3.collection interface inherits the iterable interface.
+4.any collection not to be final.
+
+
+1.collections is a class
+2.collections class have many static methods in it.
+3.collections class extends objects.
+4.collections class is final class in nature.

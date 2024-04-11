@@ -1,0 +1,11 @@
+Array :- arrays are used in java to store homogenious values together. arrays are known for there fixed sized.
+arrays have a syntax known as 
+
+datatype[] variable = new datatype[size];
+ or
+datatype variable[] = new datatype[size];
+
+int age[]=new int[3];
+age[0] =17;
+age[1] =46;
+age[2] =5;

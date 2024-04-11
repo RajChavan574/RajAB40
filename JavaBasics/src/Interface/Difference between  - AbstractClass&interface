@@ -1,0 +1,20 @@
+Difference between  - AbstractClass & interface
+
+AbstractClass
+1.abstract class can be created with the keyword "abstract".
+2.abstract class can have both concrete & abstract method.
+3.multiple level of inheritance we can not achieve in abstract class.
+4.in abstract class we can achieve 0-100% abstraction.
+5.abstract class can inheritance interface using "implements" keyword.	
+6.all the methods under interface is public.
+7.abstract class can inheritance concrete class. 
+
+
+Interface
+1.interface can be created with keyword "Interface".
+2.interface can have only abstract methods.
+3.interface can help to achieve multiple level inheritance.
+4.in interface we can achieve 100% abstraction.(abstraction which means complete hiding).
+5.in interface can inheritance another interface using "extends" keyword.
+6.all the methods under abstract class is not public.
+7.interface can never inheritance another class.

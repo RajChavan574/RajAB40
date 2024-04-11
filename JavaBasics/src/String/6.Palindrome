@@ -1,0 +1,12 @@
+Palindrome :- palindrome are those words which you read it from front or back but they are same.
+ e.g. mom,dad,radar,madam.etc. such words are called as palindrome.
+ 
+ palindrome
+ ----> input --> mom
+ ----> reverse --> mom
+ ----> equals --> true
+ 
+ ----> input --> zoom
+ ----> reverse --> mooz
+ ----> equals --> false
+ 

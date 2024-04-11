@@ -1,0 +1,9 @@
+SubString :-
+
+substring(initial value)
+substring(initial index, last index)
+
+string a="I am student";
+
+a.substring(5); ---> student
+a.substring(2,4); ---> am

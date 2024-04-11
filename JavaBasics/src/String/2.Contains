@@ -1,0 +1,4 @@
+Contains :-
+
+String a= "Raj chavan";
+a.contains("Raj");

@@ -1,0 +1,8 @@
+Interface :- interface in java is made to have only abstract methods. interface can be created with the keyword called as interface.
+syntax:-
+interface amazon
+{
+ void login();
+ void logout();
+}
+

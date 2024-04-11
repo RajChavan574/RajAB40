@@ -1,0 +1,10 @@
+Method Overriding :- developing the method in a parent class which the same name and the signature as in the child class, 
+but with different implementation is called as method overriding.
+
+declaration ---> int a;
+initilization ---> a=b;
+utilization ---> sop(a);
+implementation --->  void add() 
+							{    
+							}
+

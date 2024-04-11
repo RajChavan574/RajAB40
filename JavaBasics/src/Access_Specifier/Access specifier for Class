@@ -1,0 +1,7 @@
+*Access specifier for Class
+
+1.private	        - Not Possible					
+2.default/package	- Possible	(It can be accessble within the package and not outside the package)                                				
+3.protected	    - Not Possible					
+4.public	        - Possible	(It can be accessble within the package and even outside the package)				
+
